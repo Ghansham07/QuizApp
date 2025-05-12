@@ -16,11 +16,11 @@ A simple and interactive web-based Quiz Application built using **HTML**, **CSS*
 
 ## 📁 Folder Structure
 
-quiz-app/
-│
-├── index.html # HTML layout
-├── styles.css # Styling for the quiz app
-├── scripts.js # JavaScript logic
+quiz-app/\n
+│\n
+├── index.html # HTML layout\n
+├── styles.css # Styling for the quiz app\n
+├── scripts.js # JavaScript logic\n
 └── README.md # Project documentation
 
 ---
@@ -30,6 +30,6 @@ quiz-app/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/quiz-app.git
+git clone https://github.com/Ghansham07/quiz-app.git
 2. Open in Your Browser
 Open the index.html file directly in your browser
