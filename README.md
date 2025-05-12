@@ -16,12 +16,12 @@ A simple and interactive web-based Quiz Application built using **HTML**, **CSS*
 
 ## 📁 Folder Structure
 
-quiz-app/\n
-│\n
-├── index.html # HTML layout\n
-├── styles.css # Styling for the quiz app\n
-├── scripts.js # JavaScript logic\n
-└── README.md # Project documentation
+quiz-app/<br>
+│<br>
+├── index.html # HTML layout<br>
+├── styles.css # Styling for the quiz app<br>
+├── scripts.js # JavaScript logic<br>
+└── README.md # Project documentation<br>
 
 ---
 
