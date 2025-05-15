@@ -3,7 +3,8 @@
 A simple and interactive web-based Quiz Application built using **HTML**, **CSS**, and **JavaScript**. This project allows users to answer multiple-choice questions and get instant feedback with score tracking.
 
 ---
-
+live on: https://ghansham07.github.io/QuizApp/
+---
 ## 🌟 Features
 
 - ✅ Multiple-choice questions
